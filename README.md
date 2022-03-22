@@ -1,4 +1,4 @@
-# Create Pdf Send As Mail
+# Send Mail As PDF
 App that converts text in textbox to pdf and send as email
 
-![banner picture](https://github.com/cahitarslan/CreatePdfSendAsMail/blob/master/CreatePdfSendAsMail-screenshot.png)
+
